@@ -1,0 +1,24 @@
+Download JIRA
+
+BEGW-DKGL-0LIH-0TPU  server id
+BVKD-FSDB-E388-4KD0
+
+
+{
+    "session": {
+        "name": "JSESSIONID",
+        "value": "DF8BD1B94C31F793B9C3439C2DE67FDB"
+    },
+    "loginInfo": {
+        "loginCount": 3,
+        "previousLoginTime": "2020-05-25T01:59:35.787+0530"
+    }
+}
+
+RestAssured
+
+https://docs.atlassian.com/software/jira/docs/api/REST/8.9.0/
+RES
+
+
+https://developer.atlassian.com/server/jira/platform/cookie-based-authentication/
